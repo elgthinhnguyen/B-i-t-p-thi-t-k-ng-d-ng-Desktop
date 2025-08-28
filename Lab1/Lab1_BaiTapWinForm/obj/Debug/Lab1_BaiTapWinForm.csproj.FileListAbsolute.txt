@@ -1,0 +1,12 @@
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.csproj.AssemblyReference.cache
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.frmBai1.resources
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.frmChinh.resources
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.Properties.Resources.resources
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.csproj.GenerateResource.cache
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.csproj.CoreCompileInputs.cache
+D:\BT\Lab1\Lab1_BaiTapWinForm\bin\Debug\Lab1_BaiTapWinForm.exe.config
+D:\BT\Lab1\Lab1_BaiTapWinForm\bin\Debug\Lab1_BaiTapWinForm.exe
+D:\BT\Lab1\Lab1_BaiTapWinForm\bin\Debug\Lab1_BaiTapWinForm.pdb
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.exe
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.pdb
+D:\BT\Lab1\Lab1_BaiTapWinForm\obj\Debug\Lab1_BaiTapWinForm.frmBai2.resources

@@ -1,0 +1,14 @@
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.frmBai1.resources
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.frmChinh.resources
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\BT\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\BT\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\BT\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.frmBai2.resources
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.frnBai3.resources
+D:\BT\Lab1\Lab1\obj\Debug\Lab1.frmBai4.resources
