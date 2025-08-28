@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm1", "Lab1_BaiTapWinForm\Lab1_BaiTapWinForm1.csproj", "{549CEDAC-A005-4983-AFFC-9E213A15EFCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm2", "BaiTap2\Lab1_BaiTapWinForm2.csproj", "{54677292-BDFD-4D5C-B532-9D1290CF63D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm2", "Lab1_BaiTapWinForm2\Lab1_BaiTapWinForm2.csproj", "{54677292-BDFD-4D5C-B532-9D1290CF63D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm3", "BaiTap3\Lab1_BaiTapWinForm3.csproj", "{ADE7B3DC-11E8-432B-8717-1E1272C40E0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm3", "Lab1_BaiTapWinForm3\Lab1_BaiTapWinForm3.csproj", "{ADE7B3DC-11E8-432B-8717-1E1272C40E0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm4", "BaiTap4\Lab1_BaiTapWinForm4.csproj", "{927AA912-A64E-445E-A053-6E6CE7434141}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_BaiTapWinForm4", "Lab1_BaiTapWinForm4\Lab1_BaiTapWinForm4.csproj", "{927AA912-A64E-445E-A053-6E6CE7434141}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
